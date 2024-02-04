@@ -25,3 +25,4 @@ G:\source\C#\WPF\WebCam\obj\Debug\net6.0-windows\refint\WebCam.dll
 G:\source\C#\WPF\WebCam\obj\Debug\net6.0-windows\WebCam.pdb
 G:\source\C#\WPF\WebCam\obj\Debug\net6.0-windows\WebCam.genruntimeconfig.cache
 G:\source\C#\WPF\WebCam\obj\Debug\net6.0-windows\ref\WebCam.dll
+G:\source\C#\WPF\WebCam\obj\Debug\net6.0-windows\WebCam.sourcelink.json

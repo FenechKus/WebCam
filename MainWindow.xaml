@@ -7,8 +7,8 @@
         Title="MainWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen">
     <DockPanel LastChildFill="True">
         <StackPanel DockPanel.Dock="Bottom">
-            <Button Content="Start"/>
-            <Button Content="Stop"/>
+            <Button Content="Start" Click="StartButton"/>
+            <Button Content="Stop" Click="StopButton"/>
         </StackPanel>
         <Image x:Name="ImageBox"/>
     </DockPanel>

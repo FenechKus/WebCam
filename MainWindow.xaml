@@ -5,7 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen">
-    <Grid>
-        
-    </Grid>
+    <DockPanel LastChildFill="True">
+        <StackPanel DockPanel.Dock="Bottom">
+            <Button Content="Start"/>
+            <Button Content="Stop"/>
+        </StackPanel>
+        <Image x:Name="ImageBox"/>
+    </DockPanel>
 </Window>

@@ -48,6 +48,10 @@
               "target": "Package",
               "version": "[2.2.5, )"
             },
+            "Emgu.CV": {
+              "target": "Package",
+              "version": "[4.8.1.5350, )"
+            },
             "System.Drawing.Common": {
               "target": "Package",
               "version": "[8.0.1, )"

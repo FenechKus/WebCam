@@ -44,13 +44,37 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "dependencies": {
+            "AForge": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "AForge.Video": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
             "AForge.Video.DirectShow": {
               "target": "Package",
               "version": "[2.2.5, )"
             },
-            "Emgu.CV": {
+            "OpenCvSharp4": {
               "target": "Package",
-              "version": "[4.8.1.5350, )"
+              "version": "[4.9.0.20240103, )"
+            },
+            "OpenCvSharp4.Extensions": {
+              "target": "Package",
+              "version": "[4.9.0.20240103, )"
+            },
+            "OpenCvSharp4.Windows": {
+              "target": "Package",
+              "version": "[4.9.0.20240103, )"
+            },
+            "OpenCvSharp4.WpfExtensions": {
+              "target": "Package",
+              "version": "[4.9.0.20240103, )"
+            },
+            "OpenCvSharp4.runtime.win": {
+              "target": "Package",
+              "version": "[4.9.0.20240103, )"
             },
             "System.Drawing.Common": {
               "target": "Package",

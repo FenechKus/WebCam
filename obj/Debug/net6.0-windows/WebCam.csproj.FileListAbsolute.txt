@@ -26,3 +26,10 @@ G:\source\C#\WPF\WebCam\obj\Debug\net6.0-windows\WebCam.pdb
 G:\source\C#\WPF\WebCam\obj\Debug\net6.0-windows\WebCam.genruntimeconfig.cache
 G:\source\C#\WPF\WebCam\obj\Debug\net6.0-windows\ref\WebCam.dll
 G:\source\C#\WPF\WebCam\obj\Debug\net6.0-windows\WebCam.sourcelink.json
+G:\source\C#\WPF\WebCam\bin\Debug\net6.0-windows\OpenCvSharp.dll
+G:\source\C#\WPF\WebCam\bin\Debug\net6.0-windows\OpenCvSharp.Extensions.dll
+G:\source\C#\WPF\WebCam\bin\Debug\net6.0-windows\OpenCvSharp.WpfExtensions.dll
+G:\source\C#\WPF\WebCam\bin\Debug\net6.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+G:\source\C#\WPF\WebCam\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg490_64.dll
+G:\source\C#\WPF\WebCam\bin\Debug\net6.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+G:\source\C#\WPF\WebCam\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg490.dll
